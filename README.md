@@ -56,5 +56,6 @@ node nBitonico.js
 ```
 O código imprimirá o comprimento do maior subconjunto bitônico para o exemplo fornecido.
 
+
 A Resposta espera é o número 5.
 
