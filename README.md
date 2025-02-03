@@ -45,15 +45,24 @@ Retorno do resultado: A função retorna maxComprimento.
 
 ***Como executar o código no Node.js:***
 
-Clone do projeto.
+Clone do projeto:
+
+[nBitonico](https://github.com/cabraldasilvac/nBitonico.git)
 
 Abra o terminal, navegue até o diretório onde você salvou o projeto.
 
 Execute o comando node nBitonico.js.
 
-```node
-node nBitonico.js
+```bash
+    node nBitonico.js
 ```
+
+Execute o projeto com o python:
+
+```python
+    python3 nBitonico.py
+```
+
 O código imprimirá o comprimento do maior subconjunto bitônico para o exemplo fornecido.
 
 
